@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\bin\Debug\ProyectoInicialVB.exe.config
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\bin\Debug\ProyectoInicialVB.exe
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\bin\Debug\ProyectoInicialVB.pdb
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\bin\Debug\ProyectoInicialVB.xml
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.vbproj.AssemblyReference.cache
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.Form1.resources
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.Resources.resources
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.vbproj.GenerateResource.cache
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.vbproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.exe
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.xml
+C:\Users\danie\source\repos\PInicialVB\ProyectoInicialVB\obj\Debug\ProyectoInicialVB.pdb
